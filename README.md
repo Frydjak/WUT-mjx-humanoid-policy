@@ -1,1 +1,1 @@
-# MJX-humanoid-policy
+# WUT-mjx-humanoid-policy
